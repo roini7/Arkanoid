@@ -2,7 +2,8 @@
 
 This project is an implementation of an Arkanoid-style block-breaking game using Java's object-oriented approach and design principles. It incorporates graphical libraries and utilizes the observer design pattern to create an engaging gaming experience.
 
-![image](https://github.com/roini7/Arkanoid/assets/60584742/3bb322ff-d92c-48d4-8ea8-85e983fb63a0)
+![image](https://github.com/roini7/Arkanoid/assets/60584742/57442140-668f-4f7f-8b46-229bf0dd3ab0)
+
 
 
 ## Getting Started
